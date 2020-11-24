@@ -21,13 +21,13 @@
 
 * `apt update`
 * `apt install git curl php wget -y`
-* `git clone git://github.com/htr-tech/zphisher.git`
+* `git clone git://github.com/nihalkadengal/phisher.git`
 * `cd zphisher`
-#### > Run : `bash zphisher.sh`
+#### > Run : `bash phisher.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone git://github.com/htr-tech/zphisher.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl wget php -y ; git clone git://github.com/nihalkadengal/phisher.git ; cd zphisher ; bash phisher.sh
 ```
 <br>
 <p align="center">
