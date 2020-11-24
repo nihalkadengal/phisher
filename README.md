@@ -3,34 +3,22 @@
 * `apt update`
 * `apt install git curl php wget -y`
 * `git clone git://github.com/nihalkadengal/phisher.git`
-* `cd zphisher`
+* `cd phisher`
 #### > Run : `bash phisher.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone git://github.com/nihalkadengal/phisher.git ; cd zphisher ; bash phisher.sh
+apt update ; apt install git curl wget php -y ; git clone git://github.com/nihalkadengal/phisher.git ; cd phisher ; bash phisher.sh
 ```
-
-### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
 #### [+] Latest Login Pages !
-#### [+] Mask URL Added !
-#### [+] Easy for Beginners !
-
-## Thanks :
-#### > TheLinuxChoice (https://github.com/thelinuxchoice)
-#### > DarksecDevelopers (https://github.com/DarksecDevelopers)
-#### > Moises Tapia (https://github.com/MoisesTapia)
+#### [+] Ngrok not needed hotspot !
 
 ## Tunelling Options :
 #### > Localhost
-#### > NGROK Hotspot
-#### > NGROK No Hotspot
+#### > NGROK 
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
-
-#### Docker Added !!  Checkout `docker-legacy` branch
+[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihal07._)
