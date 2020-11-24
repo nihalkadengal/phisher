@@ -10,11 +10,6 @@
 ```
 apt update ; apt install git curl wget php -y ; git clone git://github.com/nihalkadengal/phisher.git ; cd zphisher ; bash phisher.sh
 ```
-<br>
-<p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher1.png"/>
-<img width="42%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher02.png"/>
-</p>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
