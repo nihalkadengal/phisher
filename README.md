@@ -21,4 +21,4 @@ apt update ; apt install git curl wget php -y ; git clone git://github.com/nihal
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-nihalkadengal-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40nihal07._-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihal07._)
+[![Instagram](https://img.shields.io/badge/IG-%40nihal07._red?style=for-the-badge&logo=instagram)](https://www.instagram.com/nihal07._)
