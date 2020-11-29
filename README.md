@@ -12,8 +12,8 @@ apt update ; apt install git curl wget php -y ; git clone git://github.com/nihal
 ```
 <br>
 <p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/70748280/100085976-be5f5400-2e72-11eb-9143-a605ad41f74c.jpg"/>
-<img width="100%" src="https://user-images.githubusercontent.com/70748280/100086055-dcc54f80-2e72-11eb-89d0-8c399463af56.jpg"/>
+<img width="100%" src="      "/>
+<img width="100%" src="      "/>
 </p>
 
 ## Features :
